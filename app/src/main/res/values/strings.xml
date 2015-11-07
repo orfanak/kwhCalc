@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">kwh Calculator</string>
+<string name="action_settings">developed by orfanak Feb 2015</string>
+<string name="onoma_siskeuis">Device</string>
+<string name="isxys">Power in Watts</string>
+<string name="ores">Device usage in hours</string>
+<string name="kostos">Cost per Kwh</string>
+<string name="katanalosi_kwh">Consumption in kwh</string>
+<string name="poo_pliromis">Cost</string>
+<string name="ypovoli">Calculate</string>
+<string name="banner_ad_unit_id">ca-app-pub-3283484166219147/2425601730</string>
+
+
+</resources>

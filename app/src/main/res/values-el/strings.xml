@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">kwh Calculator</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">developed by orfanak Feb 2015</string>
+    <string name="onoma_siskeuis">Συσκευή</string>
+    <string name="isxys">Ισχύς συσκευής σε Watt</string>
+    <string name="ores">Ώρες χρήσης συσκευής</string>
+    <string name="kostos">Κόστος Kwh</string>
+    <string name="katanalosi_kwh">Κατανάλωση σε kwh</string>
+    <string name="poo_pliromis">Κόστος λειτουργίας</string>
+    <string name="ypovoli">Υπολογισμός</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3283484166219147/2425601730</string>
+
+
+</resources>
